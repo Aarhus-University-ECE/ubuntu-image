@@ -1,6 +1,6 @@
 apt update
 apt upgrade
-apt install build-essential cmake libzmq3-dev curl git git-lfs cppcheck clang-tidy python3 python3-distutils
+apt install build-essential cmake valgrind libzmq3-dev curl git git-lfs cppcheck clang-tidy python3 python3-distutils
 
 # setup git large file storages (used for vidoes of +100Mb)
 git lfs install

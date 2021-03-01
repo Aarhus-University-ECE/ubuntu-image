@@ -23,3 +23,4 @@ The following software is installed by the script
 * pip + python3-disutils
 * GNU Compiler Collection (GCC)
 * CMake
+* valgrind
