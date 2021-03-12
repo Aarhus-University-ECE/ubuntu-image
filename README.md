@@ -3,10 +3,15 @@ Software installation script and course handouts for Aarhus University Software 
 
 The script is tested with Ubuntu 20.04
 
-## How to install software
 
+## Preparing Virtual Machine
 
+1. [Install VMWare Player](https://www.youtube.com/watch?v=9QXXyG0hKtI)
+2. [Installing Ubuntu in VMware](https://youtu.be/9rUhGWijf9U)
+
+  
 ## Software
+
 
 To install the software on the VM execute the 'install.sh' script located in the root using super-user privileges:
 ``` bash
